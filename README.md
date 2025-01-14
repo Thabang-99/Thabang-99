@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thabang Mahlangu</h1>
-<h3 align="center">An aspiring Data Scientist with a knack for solving problems and uncovering insights through data. Whether it's building predictive models, analyzing trends, or deploying machine learning applications, I love turning complex datasets into actionable solutions.</h3>
+<h3 align="center">An aspiring Quantitative analyst/Data Scientist with a knack for solving problems and uncovering insights through data. Whether it's building predictive models, analyzing trends, or deploying machine learning applications, I love turning complex datasets into actionable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thabang-99&label=Profile%20views&color=0e75b6&style=flat" alt="thabang-99" /> </p>
 
