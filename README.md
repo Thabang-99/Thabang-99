@@ -3,9 +3,11 @@
 
 
 -💻 I enjoy building intuitive, efficient, and scalable solutions, leveraging Python, SQL, and MATLAB to turn data into impact. My projects often explore the intersection of machine learning, mathematics, and domain-specific challenges.
-- 🔭 Developed machine learning models that improved business outcomes by reducing risk and enhancing decision-making
+- 🔭 Developed machine learning models that improved business outcomes by reducing risk and enhancing decision-making.
 - 📫 How to reach me **mahlanguthabang92@gmail.com**
 - Linkedln profile www.linkedin.com/in/thabang-mahlangu-08475121a
+
+- Kindly scroll down to look some of my public project the credit risk and bank churn project.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
