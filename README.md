@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thabang Mahlangu</h1>
 <h3 align="center">An aspiring Quantitative analyst/Data Scientist with a knack for solving problems and uncovering insights through data. Whether it's building predictive models, analyzing trends, or deploying machine learning applications, I love turning complex datasets into actionable solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thabang-99&label=Profile%20views&color=0e75b6&style=flat" alt="thabang-99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thabang-99" alt="thabang-99" /></a> </p>
-
-- 🔭 I’m currently working on **Credit Risk Analysis and Loan Default Prediction**
-
+-💻 I enjoy building intuitive, efficient, and scalable solutions, leveraging Python, SQL, and MATLAB to turn data into impact. My projects often explore the intersection of machine learning, mathematics, and domain-specific challenges.
+- 🔭 Developed machine learning models that improved business outcomes by reducing risk and enhancing decision-making
 - 📫 How to reach me **mahlanguthabang92@gmail.com**
+- Linkedln profile www.linkedin.com/in/thabang-mahlangu-08475121a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
