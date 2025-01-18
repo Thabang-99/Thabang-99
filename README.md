@@ -1,15 +1,49 @@
 <h1 align="center">Hi 👋, I'm Thabang Mahlangu</h1>
-<h3 align="center">An aspiring Quantitative analyst/Data Scientist with a knack for solving problems and uncovering insights through data. Whether it's building predictive models, analyzing trends, or deploying machine learning applications, I love turning complex datasets into actionable solutions.</h3>
 
 
--💻 I enjoy building intuitive, efficient, and scalable solutions, leveraging Python, SQL, and MATLAB to turn data into impact. My projects often explore the intersection of machine learning, mathematics, and domain-specific challenges.
-- 🔭 Developed machine learning models that improved business outcomes by reducing risk and enhancing decision-making.
-- 📫 How to reach me **mahlanguthabang92@gmail.com**
-- Linkedln profile www.linkedin.com/in/thabang-mahlangu-08475121a
 
-- Kindly scroll down to look some of my public project the credit risk and bank churn project.
+# 👋 Welcome to My GitHub Profile!  
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 About Me  
+Hi, I’m **Thabang Mahlangu**, a passionate **aspiring Quantitative Analyst/Data Scientist** with a knack for solving problems and uncovering insights through data. Whether it's building predictive models, analyzing trends, or deploying machine learning applications. I thrive on using data-driven insights to solve complex problems, design innovative solutions, and drive impactful decision-making.  
+
+💡 I specialize in:  
+- **Data Science**: Machine Learning, Predictive Analytics, and Statistical Modeling  
+- **Mathematical Modeling**: Computational Techniques, Numerical Analysis, and Optimization  
+- **Programming**: Python (NumPy, Pandas, Matplotlib, Scikit-learn), MySQL, and MATLAB  
+
+### 🎯 My Mission  
+To leverage the power of data and analytics to solve real-world problems, innovate in technology-driven industries, and contribute to a future shaped by data intelligence and creativity.  
+
+### 📂 What You’ll Find Here  
+On this GitHub profile, I showcase projects that reflect my technical expertise, curiosity, and passion for learning. These projects include:  
+- 📊 **Data Science Projects**: Applications of machine learning, data visualization, and advanced analytics.  
+- 🧮 **Mathematics in Action**: Numerical solutions to PDEs, Lagrange interpolation, and applied computational methods.  
+- 🔍 **Research-Oriented Work**: Insightful analysis and solutions from academic and real-world challenges.  
+
+Check out my projects for highlights 
+
+### 🌟 Skills & Technologies  
+Here are some of the tools and technologies I excel in:  
+- **Programming**: Python, MySQL, MATLAB, VBA 
+- **Libraries & Frameworks**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Other Skills**: Statistical Analysis, Data Cleaning, Data Visualization
+- **Financial Knowledge**: Corporate finance, Investments, Options, Derivatives, IFRS 9 and its modelling, Credit Risk. 
+
+### 📫 Let’s Connect  
+I’m always open to collaboration, learning, and exploring new challenges. If my work resonates with you, let’s get in touch!  
+- **Email**: [mahlanguthabang92@gmail.com](mailto:mahlanguthabang92@gmail.com)  
+- **LinkedIn**: [Thabang Mahlangu](www.linkedin.com/in/thabang-mahlangu-08475121a) 
+
+
+
+
+
+
+
+
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
