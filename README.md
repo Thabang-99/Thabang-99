@@ -18,7 +18,7 @@ To leverage the power of data and analytics to solve real-world problems, innova
 ### 📂 What You’ll Find Here  
 On this GitHub profile, I showcase projects that reflect my technical expertise, curiosity, and passion for learning. These projects include:  
 - 📊 **Data Science Projects**: Applications of machine learning, data visualization, and advanced analytics.  
-- 🧮 **Mathematics in Action**: Numerical solutions to PDEs, Lagrange interpolation, and applied computational methods.  
+- 🧮 **Mathematics in Action**: Numerical solutions to PDEs, Lagrange interpolation, finite difference and applied computational methods.  
 - 🔍 **Research-Oriented Work**: Insightful analysis and solutions from academic and real-world challenges.  
 
 Check out my projects for highlights 
