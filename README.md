@@ -36,7 +36,8 @@ I’m always open to collaboration, learning, and exploring new challenges. If m
 - **LinkedIn**: [Thabang Mahlangu](www.linkedin.com/in/thabang-mahlangu-08475121a) 
 
 
-
+### learning
+- WQU- https://www.credly.com/badges/23ed8a01-58ca-43e7-81cf-f63d6ccec683/public_url
 
 
 
